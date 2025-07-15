@@ -48,4 +48,3 @@ All data is stored in `timetable.db`, which includes:
 2. Run the application:
    ```
    python main.py
-
