@@ -1,4 +1,4 @@
-# Timetable-Generator
+# Timetable Generator
 A desktop application built using **Python**, **Tkinter**, and **SQLite** that automates the creation of class timetables for educational institutions. It allows admins to manage students, faculties, and subjects, and generates personalized schedules for both students and faculty based on input constraints.
 
 ---
@@ -45,6 +45,7 @@ All data is stored in `timetable.db`, which includes:
    ```bash
    git clone https://github.com/Akira2206/Timetable-Generator.git
    cd Timetable-Generator
-2.Run the application: 
+2. Run the application:
    ```
    python main.py
+
