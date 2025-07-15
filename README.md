@@ -46,4 +46,5 @@ All data is stored in `timetable.db`, which includes:
    git clone https://github.com/Akira2206/Timetable-Generator.git
    cd Timetable-Generator
 2.Run the application: 
-   ```python main.py
+   ```
+   python main.py
